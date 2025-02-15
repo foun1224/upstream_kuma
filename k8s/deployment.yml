@@ -4,7 +4,7 @@ metadata:
   labels:
     component: uptime-kuma
   name: uptime-kuma
-  namespace: pro
+  namespace: uptime-kuma
 spec:
   selector:
     matchLabels:
